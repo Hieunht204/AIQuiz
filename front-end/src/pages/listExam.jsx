@@ -23,7 +23,7 @@
     }, []);
 
     return (
-      <div className="bg-gray-100 min-h-screen px-12 py-8">
+      <div className="bg-gray-100 min-h-screen px-12 py-8 mt-16">
         <h1 className="text-3xl font-bold text-center my-4">Danh sách Bài Kiểm Tra</h1>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mt-8">
           {exams.map((exam) => (
@@ -39,6 +39,7 @@
                 <p><span className="font-medium">Thời gian:</span> {exam.TIME_TEST} phút</p>
                 <p><span className="font-medium">Số câu:</span> {exam.QUANITY}</p>
                 <p><span className="font-medium">Số điểm cho mỗi câu:</span> {exam.scorePerQuestion}</p>
+                
               </div>
             </Link>
           ))}

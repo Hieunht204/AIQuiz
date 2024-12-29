@@ -6,6 +6,7 @@ const authRouter = require("./routes/auth.js")
 const examRouter = require("./routes/exam.js")
 const listExamRouter = require("./routes/listExam.js")
 const createQuestionRouter = require("./routes/createQuestion.js")
+const completedExamRouter = require("./routes/completedExam.js")
 
 const app = express();
 
@@ -18,6 +19,7 @@ app.use("/", authRouter)
 app.use("/exam", examRouter)
 app.use("/listExam", listExamRouter)
 app.use("/createQuestion", createQuestionRouter)
+app.use("/completedExam", completedExamRouter)
 
 // Lắng nghe trên cổng 8000
 const port = 8000

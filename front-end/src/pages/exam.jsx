@@ -62,6 +62,7 @@ function Exam() {
   const [score, setScore] = useState(null); // State để lưu điểm số
   const { examId } = useParams();
   const { user } = useId();  // Lấy dữ liệu từ IdContext
+  const [totalCorrectCount, setTotalCorrectCount] = useState(null)
 
   useEffect(() => {
     async function getExamData() {
@@ -122,7 +123,8 @@ function Exam() {
   };
 
   const confirmSubmit = async() => {
-
+    const totalQuestions = questions.length;
+    const scorePerQuestion = 10 / totalQuestions;
     // Tính toán điểm số
     const correctCount = questions.reduce((count, question, index) => {
       // Lấy chữ cái đại diện cho đáp án từ `answers`
@@ -135,24 +137,11 @@ function Exam() {
     }, 0);
      
     // console.log("Điểm số: ", correctCount); 
+    const totalScore = correctCount * scorePerQuestion;
   
-    setScore(correctCount); // Lưu điểm số
+    setTotalCorrectCount(correctCount);
+    setScore(totalScore); // Lưu điểm số
     setIsSubmitting(false);
-
-    // const response = await fetch('http://localhost:8000/exam', {
-    //   method: 'POST',
-    //   headers: {
-    //     'Content-Type': 'application/json',
-    //   },
-    //   body: JSON.stringify({
-    //     userId: user,         // user.id từ context
-    //     examId: examId,          // examId từ URL hoặc state
-    //     total: correctCount,     // Điểm số của người dùng
-    //   }),
-    // });
-    console.log("User ID:", user.id);
-    console.log("Exam ID:", examId);
-    console.log("Total Score:", correctCount);
 
     try {
       const response = await fetch('http://localhost:8000/exam/submit', {
@@ -163,7 +152,7 @@ function Exam() {
         body: JSON.stringify({
           userId: user.id,         // user.id từ context
           examId: examId,         // examId từ URL hoặc state
-          total: correctCount,    // Điểm số của người dùng
+          total: totalScore,    // Điểm số của người dùng
         }),
       });
   
@@ -171,10 +160,10 @@ function Exam() {
         throw new Error('Không thể gửi dữ liệu lên server');
       }
   
-      const result = await response.json();  // Nhận kết quả từ server
+      // const result = await response.json();  // Nhận kết quả từ server
   
       // In ra kết quả từ server
-      console.log('Kết quả từ backend:', result);
+      // console.log('Kết quả từ backend:', result);
 
   
       // Hiển thị thông báo và quay về trang chủ sau 3 giây
@@ -219,60 +208,12 @@ function Exam() {
         </div>
       )}
       {score !== null && (
-        // <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center">
-        //   <div className="bg-white p-8 rounded shadow-lg text-center">
-        //     <p className="text-lg font-semibold mb-4">
-        //       Bạn đã hoàn thành bài thi với số số câu trả lời đúng: {score}/{questions.length}
-        //     </p>
-        //     <p>Cảm ơn bạn đã tham gia!</p>
-        //   </div>
-        // </div>
-        // <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center overflow-auto">
-        //   <div className="bg-white p-8 pt-20 rounded shadow-lg text-center max-w-4xl mx-auto overflow-auto">
-        //     <p className="text-lg font-semibold mb-4">
-        //       Bạn đã hoàn thành bài thi với số câu trả lời đúng: {score}/{questions.length}
-        //     </p>
-        //     <div className="text-left">
-        //       {questions.map((question, index) => {
-        //         const selectedAnswer = answers[index] || "Không trả lời";
-        //         const isCorrect =
-        //           selectedAnswer.split(".")[0] === question.correctAnswer; // So sánh ký tự đầu tiên
-        //         return (
-        //           <div
-        //             key={index}
-        //             className={`p-4 rounded-lg mb-4 ${
-        //               isCorrect ? "bg-green-100" : "bg-red-100"
-        //             }`}
-        //           >
-        //             <p className="font-semibold">Câu {index + 1}: {question.text}</p>
-        //             <p>
-        //               <span className="font-semibold">Đáp án đúng: </span>
-        //               {question.correctAnswer}.
-        //             </p>
-        //             <p>
-        //               <span className="font-semibold">Bạn đã chọn: </span>
-        //               {selectedAnswer} {isCorrect ? "(Đúng)" : "(Sai)"}
-        //             </p>
-        //           </div>
-        //         );
-        //       })}
-        //     </div>
-
-        //     <p>Cảm ơn bạn đã tham gia!</p>
-
-        //     <button
-        //       className="mt-4 bg-blue-500 px-4 py-2 text-white rounded hover:bg-blue-600"
-        //       onClick={() => navigate("/")}
-        //     >
-        //       Về trang chủ
-        //     </button>
-        //   </div>
-        // </div>
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center overflow-auto">
-          <div className="bg-white p-8 pt-24 rounded shadow-lg max-w-4xl mx-auto text-center overflow-y-auto">
-            <p className="text-lg font-semibold mb-4">
-              Bạn đã hoàn thành bài thi với số câu trả lời đúng: {score}/{questions.length}
-            </p>
+        <div className="z-50 fixed inset-0 bg-black bg-opacity-50 flex justify-center overflow-auto flex-col items-center">
+          <p className=" p-3 text-lg font-semibold mb-4 w-2/3 mx-auto text-center bg-neutral-100 mb-0 mt-3 rounded-t-lg ">
+            Bạn đã hoàn thành bài thi với số câu trả lời đúng: {totalCorrectCount}/{questions.length}<br/>
+            Số điểm: {score}
+          </p>
+          <div className="bg-white p-8 shadow-lg w-2/3 mx-auto text-center overflow-y-auto">
             <div className="text-left">
               {questions.map((question, index) => {
                 const userAnswer = answers[index]?.split('.')[0]; // Lấy A, B, C, D
@@ -286,17 +227,20 @@ function Exam() {
                       {question.options.map((option, idx) => {
                         const optionKey = option.split('.')[0]; // Lấy A, B, C, D
                         let textColor = 'text-gray-500'; // Màu mặc định
+                        let fontWeight = 'font-normal';
 
                         if (optionKey === userAnswer) {
                           textColor = isCorrect ? 'text-green-500' : 'text-red-500';
+                          fontWeight = isCorrect ? 'font-bold' : 'font-bold';
                         }
 
                         if (optionKey === question.correctAnswer && optionKey !== userAnswer) {
-                          textColor = 'text-green-700'; // Hiển thị màu xanh đậm cho đáp án đúng
+                          textColor = 'text-green-500'; // Hiển thị màu xanh đậm cho đáp án đúng
+                          fontWeight = 'font-bold';
                         }
 
                         return (
-                          <p key={idx} className={`mb-2 ${textColor}`}>
+                          <p key={idx} className={`mb-2 ${textColor} ${fontWeight}`}>
                             {option} {optionKey === userAnswer && '(Bạn đã chọn)'}
                           </p>
                         );
@@ -306,15 +250,14 @@ function Exam() {
                 );
               })}
             </div>
-            <p>Cảm ơn bạn đã tham gia!</p>
-
-            <button
-              className="mt-4 bg-blue-500 px-4 py-2 text-white rounded hover:bg-blue-600"
-              onClick={() => navigate("/")}
-            >
-              Về trang chủ
-            </button>
           </div>
+
+          <button
+            className="m-0 bg-blue-500 px-4 font-semibold py-2 w-2/3 text-white rounded-b-lg hover:bg-blue-600 mb-3"
+            onClick={() => navigate("/")}
+          >
+            Về trang chủ
+          </button>
           
         </div>
       )}

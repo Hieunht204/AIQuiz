@@ -6,6 +6,7 @@ import Register from './pages/register';  // Trang đăng ký
 import ListExam from './pages/listExam';
 import Exam from './pages/exam';
 import CreateQuestion from './pages/createQuestion';
+import CompletedExam from './pages/completedExam';
 import { IdProvider } from './context/IdContext';
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
             <Route path="/ListExam" element={<ListExam />} />  
             <Route path="/exam/:examId" element={<Exam />} />
             <Route path="/createQuestion" element={<CreateQuestion />} />  
+            <Route path="/completedExam" element={<CompletedExam />} />
           </Routes>
         </div>
       </Router>

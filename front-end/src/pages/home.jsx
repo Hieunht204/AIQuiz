@@ -12,14 +12,13 @@ function Content() {
   const { user } = useId();  // Lấy dữ liệu từ IdContext
   
   return (
-    <main className="p-6 text-center">
-      <h2 className="text-2xl font-semibold">Khu vực Nội dung chính</h2>
-      <p>Đây là nội dung chính của trang chủ.</p>
+    <main className="p-8 text-center mt-16">
+      <h1 className="text-2xl font-semibold">Trang Trắc Nghiệm Tin Học Lớp 8</h1>
+      <h2 className="text-xl mt-3">Chào mừng bạn đến với hệ thống trắc nghiệm tin học!</h2>
 
-      <div className="flex space-x-4 items-center font-medium justify-center mt-8">
+      {/* <div className="flex space-x-4 items-center font-medium justify-center mt-8">
         {user ? (
             <>
-                {/* Hiển thị thông tin dựa trên vai trò người dùng */}
                 {user.role === "teacher" ? (
                     <div className="bg-green-600 text-white py-2 px-4 rounded">
                         Giáo viên: {user.username}
@@ -39,7 +38,7 @@ function Content() {
                   Bạn chưa đăng nhập
               </div>
           )}
-      </div>
+      </div> */}
 
 
 

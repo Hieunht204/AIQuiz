@@ -85,6 +85,36 @@ const generateOpenAiCompletion = async (knowledge, sampleQues, request) => {
     return await callOpenAiApi(message);
 };
 
+// Hàm lấy dữ liệu kiến thức từ file knowledge trong các tài liệu và trả về front-end
+createQuestionRouter.get("/", (req, res) => {
+    try {
+        const tai_lieu = "Tai_Lieu"; // Thư mục chứa các tệp tin
+        const folder_chu_de = ["Chu_De_1", "Chu_De_2", "Chu_De_3", "Chu_De_4", "Chu_De_5", "Chu_De_6"]; // Danh sách các thư mục con
+
+        const knowledgeByTopic = {};
+
+        folder_chu_de.forEach(folder => {
+            const filePath = path.join(tai_lieu, folder, 'knowledge.txt') // ĐƯờng dẫn tới file knowledge.txt của mỗi chủ đề
+
+            // Kiểm tra nếu file tồn tại
+            if (fs.existsSync(filePath)) {
+                const content = fs.readFileSync(filePath, 'utf-8'); // Đọc nội dung file
+                knowledgeByTopic[folder] = content; //lưu nội dung vào object theo chủ đề
+            } else {
+                console.log(`Không tìm thấy file knowledge.txt trong thư mục ${folder}`);
+            }
+        });
+        
+        // console.log("Sending data to frontend:", knowledgeByTopic);
+
+        // Trả lại dữ liệu cho frontend
+        res.status(200).json({knowledgeByTopic});
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ error: error.message });
+    }
+});
+
 createQuestionRouter.post("/", async (req, res) => {
     try {
         const { knowledge, prompt } = req.body;

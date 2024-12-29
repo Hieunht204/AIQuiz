@@ -17,7 +17,7 @@ function Header() {
     };
 
     return (
-        <header className="bg-white p-4 flex justify-between items-center px-16 py-4 shadow-xl">
+        <header className="z-40 bg-white fixed top-0 left-0 p-4 w-screen flex justify-between items-center px-16 py-4 shadow-xl">
             {/* Logo */}
             <Link to="/" className="text-black text-xl font-bold flex items-center">
                 <img src="logo.png" alt="Logo" className="h-8 w-8 rounded-full inline-block" />
@@ -35,7 +35,13 @@ function Header() {
                             <button onClick={handleClickTest} className="text-black hover:underline">Làm bài kiểm tra</button>
                         )}
                     </li>
-                    <li><a href="#features" className="text-black hover:underline">Xem điểm</a></li>
+                    <li>
+                    {user ? (
+                            <Link to="/completedExam" className="text-black hover:underline">Xem điểm</Link>
+                        ) : (
+                            <button onClick={handleClickTest} className="text-black hover:underline">Xem điểm</button>
+                        )}
+                    </li>
                     <li><a href="#guide" className="text-black hover:underline">Hướng dẫn</a></li>
                     <li><a href="#contact" className="text-black hover:underline">Liên hệ</a></li>
 
@@ -72,8 +78,8 @@ function Header() {
             {/* Popup thông báo */}
             {showPopup && (
                 <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50">
-                    <div className="bg-white p-6 rounded shadow-lg max-w-xs text-center">
-                        <p className="mb-4">Vui lòng đăng nhập trước khi làm bài kiểm tra!</p>
+                    <div className="bg-white p-6 rounded shadow-lg w-56 text-center">
+                        <p className="mb-4 font-semibold">Vui lòng đăng nhập!</p>
                         <button 
                             onClick={() => setShowPopup(false)} 
                             className="bg-blue-950 text-white py-2 px-4 rounded hover:bg-blue-700 transition-colors">
