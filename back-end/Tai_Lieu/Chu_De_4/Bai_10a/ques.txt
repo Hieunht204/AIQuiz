@@ -1,0 +1,10 @@
+Câu 1. Chọn phương án đúng:
+A. Văn bản trên trang chiếu cần ngắn gọn, súc tích.
+B. Văn bản trên trang chiếu càng chi tiết, đầy đủ càng tốt.
+C. Sử dụng càng nhiều màu sắc cho văn bản trên trang chiếu càng giúp người nghe tập trung.
+D. Sử dụng nhiều loại phông chữ cho văn bản trên trang chiếu sẽ thu hút được sự chú ý của người nghe.
+Câu 2: Chọn phương án sai:
+A. Đầu trang và chân trang có thể được định dạng phông chữ, cỡ chữ, màu chữ khác nhau.
+B. Có thể bỏ phần đầu trang và chân trang khỏi trang chiếu tiêu đề.
+C. Có thể tự động cập nhật thời gian vào thông tin ở đầu trang và chân trang.
+D. Những thông tin lựa chọn và nhập vào của sở Header & Footer được tự động áp dụng cho tất cả các trang chiếu trong bài trình chiếu.

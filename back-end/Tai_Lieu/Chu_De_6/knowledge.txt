@@ -1,0 +1,98 @@
+CHỦ ĐỀ 6. HƯỚNG NGHIỆP VỚI TIN HỌC
+BÀI 16: TIN HỌC VỚI NGHỀ NGHIỆP
+Mục tiêu bài học:
+- Nêu được một số nghề nghiệp mà ứng dụng tin học làm tăng hiệu quả công việc.
+- Nêu được tên một số nghề thuộc lĩnh vực tin học và một số nghề liên quan đến ứng dụng tin học.
+- Nhận thức và trình bày được vấn đề bình đẳng giới trong việc sử dụng máy tính và trong ứng dụng tin học, nêu được ví dụ 
+- Trong suốt chiều dài lịch sử, công nghệ đã liên tục thay đổi cách người lao động trong mọi ngành nghề thực hiện công việc của họ để tăng năng suất. Cùng sự phát triển của công nghệ thông tin, tin học ngày càng được ứng dụng rộng rãi trong mọi ngành nghề. Theo các chuyên gia, ứng dụng tin học sẽ mang lại lợi ích cho hầu hết ngành nghề nhờ tăng hiệu quả công việc vì Ứng dụng tin học:
+- Tăng tốc độ xử lý, tiết kiệm thời gian: Với nghề kế toán, những yêu cầu mất hàng giờ tính toán thủ công hoàn thành trong vài phút nhờ các phần mềm. Các khoản thanh toán, giao dịch, chuyển tiền thực hiện gần như ngay lập tức qua mạng.
+- Liên lạc và trao đổi thông tin dễ dàng: Các tài liệu, tin nhắn trao đổi công việc gửi ngay lập tức đến đồng nghiệp hoặc khách hàng toàn thế giới.
+- Hỗ trợ làm việc nhóm và mở rộng phạm vi làm việc: Nghề phát triển phần mềm, nhờ các công cụ giao tiếp trực tuyến, các lập trình viên có thể làm xuyên biên giới, trao đổi với đồng nghiệp ở các nước khác. Các nhóm có thể tổ chức họp từ xa và làm trên cùng một tài liệu được chia sẻ dựa trên công nghệ đám mây.
+- Nâng cao tay nghề, bổ sung kiến thức, hỗ trợ thông tin cho người lao động: Nghề lái xe taxi, các ứng dụng đặt xe, bản đồ, thông báo tình trạng giao thông giúp lái xe dễ dàng nhận khách, tìm đường, tránh các cung đường bị tắc để tiết kiệm thời gian, nhiên liệu.
+- Qua sự phát triển của tin học, nhiểu lĩnh vực nghề nghiệp được hỗ trợ hiệu quả, nâng cao chất lượng công việc. Sự phát triển của tin học đã tạo ra những nghề nghiệp đa dạng của lĩnh vực này như: phát triển phần mềm, lập trình ứng dụng điện thoại, quản trị mạng, phát triển và thiết kế website.
+- Bên cạnh đó, một số nghề liên quan đến ứng dụng tin học cũng rất phát triển như: bán hàng online, streamer (phát sóng trực tiếp cho người xem qua một nền tảng online), vlogger (tạo nội dung trên nền tảng video và đăng trên mạng xã hội).
+Ví dụ cụ thể về ứng dụng tin học trong một số nghề nghiệp nhằm tăng hiệu quả công việc:
+- Bác sĩ: 
++ Hồ sư sức khoẻ điện tử
++ Khám bệnh từ xa.
+- Quản lí du lịch:
++ Quảng cáo sản phẩm du lịch.
++ Đặt chỗ khách sạn trên website.
+- Kiến trúc sư:
++ Phần mềm thiết kế bản vẽ
++ In 3D tạo mẫu.
+- Nhà báo:
++ Đăng bài nhanh chóng trên báo điện tử
++ Chỉnh sửa ảnh, video dễ dàng.
+- Nhân viên văn phòng: 
++ Phần mềm soạn thảo văn bản
++ Phần mềm lưu trữ hồ sơ.
+- Kĩ sư nông nghiệp: 
++ Tự động điều tiết nước tưới.
++ Nghiên cứu tiến bộ nông nghiệp: Vi dụ Internet vạn vật (IoT)
+- Ứng dụng tin học phù hợp trong các ngành nghề sẽ giúp tăng hiệu quả công việc.
+- Một số nghề thuộc lĩnh vực tin học, liên quan đến ứng dụng tin học ra đời và phát triển đáp ứng yêu cầu cuộc sống và công việc.
+2. BÌNH ĐẲNG GIỚI TRONG SỬ DỤNG MÁY TÍNH VÀ ỨNG DỤNG TIN HỌC
+- Tin học đang thúc đẩy sự phát triển của mọi ngành nghề, thu hút một lượng lớn lao động của xã hội tham gia. Thực tế, nhiều số liệu nghiên cứu cho thấy tỷ lệ nữ giới làm trong các ngành tin học so với nam giới còn khá thấp, dù môi trường, điều kiện công việc vẫn phù hợp cho phụ nữ phát huy khả năng về sức khỏe, trí tuệ, phẩm chất của mình trong lĩnh vực này.
+- Vì vậy, nhiều tổ chức thế giới đang tích cực tổ chức nhiều hoạt động thúc đẩy phụ nữ và trẻ em gái tham gia nhiều hơn vào lĩnh vực tin học.
+- Ngày Quốc tế trẻ em gái với công nghệ thông tin (International Girls in ICT Day) tổ chức hàng năm bởi Liên minh Viễn thông Quốc tế của Liên Hợp Quốc (viết tắt là ICU). Hoạt động trong ngày này nhằm tuyên truyền và nhấn mạnh sự cần thiết phải thúc đẩy cơ hội nghề nghiệp công nghệ cho phụ nữ và trẻ em gái trong lĩnh vực được xem là phát triển nhanh nhất thế giới.
+93
+
+Text from Trang94.jpg:
+* DigiGirlZ là chién dich toan cau do tap
+doan Microsoft khởi xướng nhằm truyền
+cảm hứng cho các học sinh nữ Trung
+hoc co’ sé va Trung hoc phé thông theo
+dudi các ngành nghề khoa hoc — công
+nghệ, trong đó có lĩnh vực tin học.
+
+s Khi chưa tim hiéu thi nhiều người có thé
+
+nghĩ lap trinh vién dau tiên trên thé giới la
+nam gidi, nhưng không, người được coi
+là lập trình viên đầu tiên trên thế giới lại
+là một phụ nữ - Bà Ada Lovelace (người
+Anh, sinh nam 1815). Em có thé tim hiểu
+
+cau chuyén cuộc doi của ba bang cach
+tim kiém thông tin trén Internet.
+
+Nghé nghiép trong lĩnh vực tin hoc, cing như co hội ung dung tin hoc dé nang cao
+hiệu qua công việc của cac nghé nghiệp khac, la binh dang cho tat ca moi người.
+
+a
+Phương án nào dưới đây không đúng khi nói về việc sử dụng máy tính và «ng tm
+dung tin hoc?
+
+A. Giúp việc thong tin lién lac giữa moi người hiệu qua hon.
+B. Moi người được tham-gia:vào,môi ừường hooiâp:tót-hơn.
+C. Phu nữ va trẻ em gai không can đền may tinh vi king giúp ich nhiều cho ho.
+
+D. Moi người đều có co hội hoe hỏi kién thức đẻ giúp nang cao chat lượng cuộc
+sống va cham sóc sức khoẻ tốt hon. -
+
+LUYEN TAP
+
+4. Em hay phỏng van một vai người (có thé là bố me, người quen của bé me, thay cô....)
+dé tim hiéu vé những ứng dung tin hot giúp họ nang cao hiéu qua công viéc.
+
+2. Em hay chon phương an tra lời dung nhất.
+Bat binh dang giới trong str dung may tinh va ứng dung tin hoc có thé dan toi hau qua gi?
+A. Phu nữ va tré em gai không có cơ hội phat trién nghé nghiép trong lĩnh vực công nghé.
+
+B. Phu nữ va tré em gai không có cơ hội sử dung công nghé dé nang cao hiéu qua công việc
+va chat lượng cuộc séng.
+
+C. Phu nữ va tré em gai không theo kip sự phat trién của xa hội.
+D. Ca ba hau qua trén.
+
+VAN DUNG
+
+4. Em hay dé xuất voi thay cô giao va các ban td chức một cuộc thi thuyét trình vé Ung dung
+tin hoc trong các nghé nghiệp tai Việt Nam. Em hay tim hiéu va tao ra bai thuyét trinh của
+minh nhé. Hay chia sé voi ban bè vé bai thuyết trinh của em.
+
+2. Trong vai trò một hoc sinh lớp 8, em có thé lam gi dé thuc day binh dang giới ở lứa tudi
+của em, ở khía canh str dung may tinh va ứng dung tin hoc trong hoc tap?
+
+94

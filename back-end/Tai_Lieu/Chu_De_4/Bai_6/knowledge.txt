@@ -1,0 +1,159 @@
+Chủ Đề 4: ỨNG DỤNG TIN HỌC
+BÀI 6. SẮP XẾP VÀ LỌC DỮ LIỆU
+Mục tiêu bài học:
+- Dùng được phần mềm bảng tính trợ giúp giải quyết bài toán thực tế.
+- Nêu được một số tình huống thực tế cần dùng các chức năng sắp xếp và lọc dữ liệu.
+- Thực hiện được các thao tác lọc, sắp xếp dữ liệu của phần mềm bảng tính.
+
+
+Text from Trang29.jpg:
+Két qua: Tén hoc sinh được sp xép theo thứ tw bang chữ cai nhu minh hoa trong Hinh 6.4.
+
+10| 9 |Phùng Khanh
+Ngô Ha ‘Trang
+Dang Mai Trang
+
+Hinh 6.4. Két qua sap xép tên hoc sinh theo thir tu bang chữ cai
+
+Ngôn ngữ lap trình
+Đồ hoa may tinh
+Ngôn ngữ lap trình
+
+A B c D E
+1 Bảng kết qua khảo sat lớp 8A
+3 1 |Phạm Hoang Bao lAn 1 Mạng máy tính
+4 3 |VũThịMinh An 3 Ngôn ngữ lap trình
+5 | 5 |TrầnMinh 2 Ngôn ngữ lập trình
+6 | 4 |ĐỗMinh 2 Bang tinh dién tử
+7 | 2 |Trương Thanh 2 Soan thao van ban
+8 | 7 |Duong Gia 3 | Phan mềm trình chiếu
+9 | 10 |Phạm Ngoc 3 D6 hoa may tinh
+1
+1
+1
+
+b) Sap xép dé liéu theo nhiéu tiêu chi
+Nhiém vu
+
+Trong bang tinh ở Hinh 6.4, tén hoe sinh đã duoc sắp xếp theo thứ ty bang chữ cai.
+Tuy nhién, có hai hoc sinh cùng tên la Trang, nhưng ban Ngô Ha Trang duoc sap xếp
+trước ban Dang Mai Trang) trong khi chữ N đứng sau chữ Ð trong bang chữ cai. Nhu vay,
+dé danh sách hoc sinh hién thi đúng theo yéu cau, em can bỏ sung thêm tiéu chi thứ hai
+la sắp xếp Họ đệm. Khi đó, néu cùng gid tri trên cột Tên, các hang của bang tinh sé duoc
+sắp xếp theo thứ tự chữ cái của cột Họ đệm.
+
+Hướng dẫn
+
+Thực hiện các bước như hướng dan ở mục a) dé mo hộp thoai Sort, cac bước tiép theo
+thuc hién nhu hướng dan trong Hinh 6.5. Chon OK dé hoan thành viéc sắp xép.
+
+2. Chon Add Level 3. Chon cột Tên 4. Chon cột Họ đệm 1. Chon 6 nay dé
+dé thêm tiêu chi la tiêu chi sap latiéu chi sap xếp khéng sap xép
+sắp xếp xếp thứ nhất dòng tiêu đề
+
+Sort ? x
+
+[aaa ever || XD My data has headers
+
+Column Sort On Order
+
+Sort by Cell Values v AtoZ v
+
+Then by Cell Values g| [atoz v
+
+Hinh 6.5. Sap xép theo nhiéu tiéu chi
+
+Luu ý: Tiép tục chon nut lệnh Add Level néu muồn thêm nhiều tiéu chi sap xếp. Chon nut
+lệnh Delete Level néu muén xoá bỏ tiéu chi sap xếp.
+
+29
+
+Text from Trang30.jpg:
+Kết qua duoc minh hoạ trong E
+Hinh 6.6, trong đó Tén va Ho dém
+duoc sap xép theo thứ tw bang chữ _ Nội dung
+cái. Sau khi sắp xếp dữ liệu, em có 3 1 Mạng máy tính
+thé nhap lai gia tri của cột TT cho 4 ¡ 3 |VũThị Minh An 3 Ngôn halt Jap ton
+dung thứ ty. 515 Tran Minh chau 2 Ngén nett lgptrinh
+a : - 6 4 |B6 Minh Giang | 2 Bang tinh dién oe
+Theo em có thé sp xếp bang kết 7 | [Thong Tien [Hes - |Ø |_‘Seannthide van han:
+- - — - 8 | 7 |Duong Gia Khanh | 3 | Phan mềm trình chiếu
+quả khao sat lop 8A (Hinh 6.2) 9 | 10 |Phạm Ngoc inh 3
+theo to, neu cling to sap xeptheo = 19/9 |phingkhanh loàn |1
+tên, néu cling tén sap xép theo Dang Mai 1
+ho dém duoc không? Hay thực †
+hiện sắp xếp trên bảng tính.
+3. THỰC HANH: LOC DU LIEU
+
+Chức nang loc dữ liéu của phan mém
+bang tinh được sử dung dé chon va
+chi hién thi các dòng thoả man các
+diéu kiện nao đó. Vi du: danh sach
+hoc sinh muén tim hiéu nội dung
+Ngôn ngữ lap trinh, danh sách hoc
+sinh Tổ 1 muồn tim hiéu nội dling DS:
+hoa may tính,...
+
+4. Nháy chuột vào
+day dé loc theo
+cột Nội dung
+
+pe |w '_ĩoI
+
+SortZtoA
+Sort by Color >
+
+Clear Filter From "Nội dung’
+
+Nhiém vu 1 (loc theo một tiéu chi):
+Loc danh sach hoc sinh theo từng nội
+dung Tin hoc ma hoc sinh lựa chon
+(ste dung bộ loc nhiéu tuy chon).
+
+STE ||
+
+Filter by Color
+Test Filters
+Huong dan
+
+(Select Ai)
+(1 Bang tinh điện ter
+10105 hoạ máy tính
+(C1 Mang may tinh
+
+Bước 1. Chon vung dữ liệu can loc la
+
+A2:E12.
+
+Bước 2. Trong thé Data, tai nhóm Ng6n ngữ lập trình
+Sort & Filter, chon lệnh Filter. Khi | 2 n al
+do, nut lệnh loc dữ liệu sé xuất hiện
+ở tat cả các ô thuộc dong tiêu dé của
+bang dé liệu.
+
+RIBIR |S \o X
+
+r
+&
+
+Hinh 6.7. Cac bước loc danh sach hoc sinh
+theo từng nội dung
+
+A B c D E
+
+Bước 3. Thực hiện loc dé liệu theo 3.
+
+các bước trong Hình 6.7. Chọn OK 2 i n i
+
+dé hoàn thanh việc loc. 4 | 3 |VũThị Minh |An Ngôn ngữ lap trình
+— : 5 5 |TrầnMinh Chau Ngôn ngữ lap trình
+
+Hình 6.8 minh hoa kêt qua loc dữ liệu 10 9 |PhùngKhánh  |Toàn Ngôn ngữ lập trình
+
+la danh sách hoc sinh mong muén 11 8 |Đặng Mai Trang | 1 | Ngôn ngữ lập trình
+
+tim hiểu nội dung Ngôn ngữ lập trình. Hình 6.8. Kết quả lọc dữ liệu
+
+Bước 4. Đề bỏ lọc dữ liệu, chọn Select All ở Bước 2 trong Hình 6.7.
+
+Luu ý: Dữ liệu không đúng với điều kiện loc sé bj an di.

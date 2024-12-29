@@ -1,0 +1,12 @@
+Chủ đề 1
+Câu 1: Máy tính trong dự án của Babbage có đặc điểm gì? 
+A. Máy tính cơ học, thực hiện tự động.
+B. Máy tính có những ứng dụng ngoài tính toán thuần túy.
+C. Có thiết kế giống với máy tính ngày nay.
+D. Cả ba đặc điểm trên.
+
+Câu 2: Bộ vi xử lý là linh kiện máy tính dựa trên công nghệ nào?
+A. Đèn điện tử chân không.
+B. Linh kiện bán dẫn đơn giản.
+C. Mạch tích hợp hàng chục, hàng trăm linh kiện bán dẫn.
+D. Mạch tích hợp cỡ lớn, gồm hàng chục nghìn đến hàng triệu linh kiện bán dẫn.

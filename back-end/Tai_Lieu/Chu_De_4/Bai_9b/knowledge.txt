@@ -1,0 +1,26 @@
+BÀI 9b. THAY ĐỔI KHUNG HÌNH, KÍCH THƯỚC ẢNH
+Mục tiêu bài học:
+- Biết các công cụ cắt, xoay, thay đổi kích thước ảnh.
+- Thực hiện được thao tác: cắt, xoay, thay đổi kích thước ảnh
+1. CÔNG CỤ CẮT, XOAY, THAY ĐỔI KÍCH THƯỚC ẢNH
+a. Cắt hình ảnh
+- Khi chụp, có thể có những đối tượng xuất hiện trong ảnh ngoài ý muốn, khi đó, cần dùng công cụ cắt (Crop) để loại những chi tiết không hợp lý, giúp bức ảnh có bố cục chặt chẽ hơn, thu hút chú ý của người xem vào chủ đề của ảnh
+b. Xoay hình ảnh
+- Thực tế, khi chụp, máy ảnh có thể bị nghiêng hoặc xoay không đúng hướng. Ảnh chụp có thể bị lỗi hoặc không đúng ý định người chụp. Công cụ xoay (Rotate) giúp khắc phục vấn đề bằng cách xoay hình ảnh theo góc xoay và tâm xoay tùy ý.
+c. Thay đổi kích thước hình ảnh
+- Mỗi ảnh đều có kích thước cụ thể, nhưng có thể thay đổi kích thước của chúng. Công cụ thay đổi kích thước (Resize) giúp tăng hoặc giảm kích thước hình ảnh. Một trong những ứng dụng của việc thay đổi kích thước ảnh:
++ Tăng hoặc giảm dung lượng tệp ảnh khi muốn gửi dưới dạng tệp đính kèm thư điện tử hoặc tải lên mạng xã hội, website, diễn đàn...
++ Với những hình ảnh gốc có kích thước nhỏ thì không nên thay đổi thành kích thước lớn hơn vì sẽ làm giảm chất lượng ảnh.
+Tóm tắt bài:
+
+Dưới đây là đoạn văn đã được chỉnh sửa chính tả:
+
+Chỉnh sửa chính tả:
+c) Thay đổi kích thước hình ảnh
+Mỗi hình ảnh đều có kích thước cụ thể, tuy nhiên em có thể thay đổi kích thước của chúng (Hình 9b.2). Công cụ thay đổi kích thước (Resize) giúp em tăng hoặc giảm kích thước hình ảnh. Một trong những ứng dụng của việc thay đổi kích thước ảnh là:
+
+Tăng hoặc giảm dung lượng của tệp ảnh khi muốn gửi dưới dạng tệp đính kèm thư điện tử hoặc tải lên mạng xã hội, website, diễn đàn...
+Tuy nhiên, với những hình ảnh gốc có kích thước nhỏ thì không nên thay đổi thành kích thước lớn hơn vì sẽ làm giảm chất lượng hình ảnh.
+Công cụ Crop giúp loại các phần ảnh không hợp lý.
+Công cụ Resize giúp tăng hoặc giảm kích thước ảnh.
+Công cụ Rotate giúp xoay ảnh theo góc xoay và tâm xoay tùy ý.

@@ -1,0 +1,5 @@
+Câu 1: Phương án nào sau ĐÚNG khi biểu diễn kích thước ảnh có chiều cao là 1509 pixel và chiều rộng là 1268 pixel?
+A. 1509 + 1268
+B. 1509; 1268
+C. 1509 × 1268
+D. 1268 × 1509

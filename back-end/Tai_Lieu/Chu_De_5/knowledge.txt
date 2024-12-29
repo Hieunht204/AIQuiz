@@ -1,0 +1,106 @@
+Chủ đề 5: GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH
+Bài 12: TỪ THUẬT TOÁN ĐẾN CHƯƠNG TRÌNH
+Mục tiêu bài học:
+- Mô tả kịch bản đơn giản dưới dạng thuật toán và tạo một chương trình đơn giản.
+- Hiểu được chương trình là dãy các lệnh điều khiển máy tính thực hiện một thuật toán.
+1. TỪ THUẬT TOÁN ĐẾN CHƯƠNG TRÌNH
+- Mô tả kịch bản dưới dạng thuật toán
+Để đi thành một tam giác đều:
++ Xác định góc quay của nhân vật khi đi hết một cạnh.
++ Liệt kê lần lượt các bước của thuật toán điều khiển nhân vật (bằng ngôn ngữ tự nhiên).
+- Tam giác đều là hình có ba cạnh bằng nhau, ba góc bằng nhau và bằng 60 độ. Để di chuyển theo hình tam giác đều, nhân vật cần lặp lại ba lần việc thực hiện hai hành động sau đây:
++ Di chuyển về trước số bước bằng độ dài cạnh tam giác.
++ Quay trái 120 độ.
+- Để mô tả thuật toán, ngoài liệt kê các bước bằng ngôn ngữ tự nhiên hoặc dùng sơ đồ khối, ta có thể viết chương trình để máy tính hiểu và thực hiện được thuật toán.
+BÀI 13: BIỂU DIỄN DỮ LIỆU
+Mục tiêu bài học:
+- Nêu được khái niệm hàng, biến, kiểu dữ liệu, biểu thức và dùng các khái niệm này ở các chương trình đơn giản trong môi trường lập trình trực quan.
+1. KIỂU DỮ LIỆU
+- Trong các ngôn ngữ lập trình, dữ liệu được phân loại thành những kiểu khác nhau để lưu trữ và áp dụng những phép toán phù hợp.
++ Số được phân loại thành kiểu số nguyên hoặc số thực.
++ Văn bản được phân loại thành kiểu ký tự hoặc chuỗi ký tự.
++ Các điều kiện hoặc phép so sánh được phân loại thành kiểu logic.
+- Mỗi kiểu dữ liệu gồm tập hợp giá trị và một số phép toán trên những giá trị đó. Ngôn ngữ lập trình Scratch có ba kiểu dữ liệu: kiểu số, kiểu chuỗi ký tự, và kiểu logic. Ví dụ:
++ Kiểu dữ liệu Số: Số nguyên và số thập phân. Ví dụ: 15, 3.141592
++ Kiểu dữ liệu Xâu ký tự:	Ký tự hoặc xâu ký tự. Ví dụ: @, Computer
++ Kiểu dữ liệu Logic: Hai giá trị true (đúng) và false (sai). Ví dụ: false, true
+- Mỗi kiểu dữ liệu được trang bị một số phép toán. Ngược lại, mỗi phép toán đều cho kết quả là giá trị thuộc một kiểu dữ liệu nhất định.
+2. HẰNG, BIẾN, BIỂU THỨC
+- Biến được dùng để lưu trữ giá trị có thể thay đổi trong khi thực hiện chương trình.
+- Biến được nhận biết qua tên. Ví dụ: chiều dài, chiều rộng của hình chữ nhật ta đặt tên lần lượt là a, b
+- Hằng là giá trị không đổi trong quá trình thực hiện chương trình. Ví dụ: 3.14 là hằng kiểu số (hằng số), "Xin chào!" là hằng kiểu xâu ký tự, true là hằng kiểu logic. Mỗi hằng số thuộc một kiểu dữ liệu nhất định.
+- Biểu thức là sự kết hợp của biến, hằng, dấu ngoặc, phép toán và các hàm để trả lại giá trị thuộc một kiểu dữ liệu nhất định. Biểu thức kiểu số tính gần đúng chu vi đường tròn bán kính r: 2 * 3.14 * r
+BÀI 14: CẤU TRÚC ĐIỀU KHIỂN
+Mục tiêu bài học:
+- Thể hiện được cấu trúc tuần tự, rẽ nhánh, và lặp ở chương trình trong môi trường lập trình trực quan
+1. CẤU TRÚC ĐIỀU KHIỂN CƠ BẢN
+- Xây dựng trò chơi trên máy tính, cần tìm số bí mật mà máy lấy ngẫu nhiên trong khoảng 1 đến 100. Ta được đoán nhiều lần đến khi đoán đúng số đó. Mỗi lần sai, máy cho biết số đoán nhỏ hơn hay lớn hơn số bí mật. Mô tả kịch bản trò chơi dưới dạng thuật toán.
+a. Cấu trúc tuần tự
+- Theo kịch bản xây dựng, từng bước lập chương trình của trò chơi bằng ngôn ngữ lập trình trực quan.
+- Trong trò chơi, chỉ cần hai biến số:
++ Số bí mật (máy lấy ngẫu nhiên), đặt tên là số bí mật.
++ Trả lời (người chơi đoán và nhập vào). Biến này có sẵn trong Scratch.
+- Kịch bản thuật toán dưới dạng tuần tự (liệt kê bằng ngôn ngữ tự nhiên):
++ Bắt đầu
++ Gán số bí mật giá trị ngẫu nhiên trong khoảng 1 đến 100
++ Hỏi và nhận giá trị từ bàn phím, lưu vào biến trả lời
++ Hiển thị số bí mật trong 2 giây
++ Hiển thị trả lời trong 2 giây
++ Kết thúc
+- Trong ngôn ngữ lập trình trực quan, cấu trúc tuần tự được thể hiện bằng cách lắp ghép các khối lệnh thành phần theo đúng trình tự hoạt động, từ trên xuống dưới
+b. Cấu trúc rẽ nhánh
+- Sau khi đảm bảo các biến đã hoạt động đúng, có thể thay thế các thao tác hiển thị trong kịch bản bằng thao tác so sánh hai số và cho biết giá trị của biến trả lời bằng, thấp hơn, hay cao hơn giá trị của biến số bí mật: 
++ Nếu trả lời bằng số bí mật, thông báo:"HOAN HÔ!"
++ Nếu trả lời nhỏ hơn số bí mật, thông báo:"Quá thấp".
++ Nếu trả lời lớn hơn số bí mật, thông báo:"Quá cao".
+- Kịch bản thuật toán rẽ nhánh (mô tả bằng ngôn ngữ tự nhiên):
++ Nếu trả lời = số bí mật, hiển thị:"HOAN HÔ!".
++ Nếu không, tiếp tục kiểm tra:
+  + Nếu trả lời < số bí mật, hiển thị:"Quá thấp".
+  + Nếu không, hiển thị:"Quá cao"
+- Ba trường hợp "bằng","nhỏ hơn", và"lớn hơn" loại trừ lẫn nhau, không cần kiểm tra cả ba mà chỉ kiểm tra hai lần.
+- Trong ngôn ngữ lập trình trực quan, cấu trúc rẽ nhánh được thể hiện bằng khối lệnh chứa một điều kiện hay một biểu thức logic.
+- Cấu trúc rẽ nhánh có hai dạng:
++ Dạng khuyết
++ Dạng đầy đủ
+Tùy tình huống, điều kiện này nhận giá trị đúng hay sai, chương trình sẽ định hướng đến khối lệnh tiếp theo để máy tính thực hiện.
+c. Cấu trúc lặp
+- Trong trò chơi, việc đoán số không chỉ được thực hiện một lần, người chơi thực hiện lặp lại đến khi đoán đúng số bí mật. Khi người chơi đoán sai, máy hỏi lại và câu trả lời mới được đem so sánh với số bí mật.
+- Lưu ý: Việc lặp lại chỉ thực hiện khi người chơi đoán sai. Cũng có nghĩa người chơi đoán đúng là điều kiện kết thúc vòng lặp.
+- Cấu trúc điều khiển trong ngôn ngữ lập trình trực quan:
+- Cấu trúc tuần tự được thể hiện bằng cách lắp ghép các khối lệnh theo trình tự của các hoạt động, từ trên xuống dưới.
+- Cấu trúc rẽ nhánh có hai dạng: dạng khuyết và dạng đầy đủ.
+- Cấu trúc lặp có ba dạng:
++ Lặp với số lần định trước.
++ Lặp vô hạn.
++ Lặp có điều kiện kết thúc.
+
+BÀI 15: GỠ LỖI
+Mục tiêu bài học:
+- Chạy thử, tìm lỗi và sửa được lỗi chương trình.
+1. KIỂM THỬ VÀ PHÂN LOẠI LỖI
+a. Kiểm thử
+- Việc chạy thử chương trình để kiểm tra (còn gọi là kiểm thử) nhằm phát hiện những tình huống bất thường (gọi là lỗi) khi thực hiện chương trình. Lỗi cần được loại bỏ trước khi chương trình được coi là sản phẩm hoàn chỉnh và chia sẻ với người khác.
+b. Phân loại lỗi
+- Có hai loại lỗi:
++ Lỗi cú pháp: Xảy ra khi lệnh viết sai với quy tắc của ngôn ngữ lập trình, làm chương trình không hoạt động.
++ Lỗi logic (hay lỗi ngữ nghĩa): Xảy ra khi các câu lệnh trong chương trình tuy viết đúng cú pháp nhưng thực hiện không đúng kịch bản.
+2. PHÁT HIỆN LỖI VÀ SỬA LỖI LOGIC
+- Hầu hết các ngôn ngữ lập trình đều có chức năng chỉ rõ lỗi cú pháp. Ngôn ngữ lập trình trực quan, thậm chí hạn chế những tình huống xảy ra lỗi cú pháp.
+- Lỗi cú pháp dễ dàng được phát hiện và sửa chữa.Nhưng với lỗi logic, việc xác định lệnh nào gây lỗi và đã hoạt động thế nào để tạo lỗi ấy không phải lúc nào cũng đơn giản.
+a. Phát hiện lỗi logic
+- Có hai cách thường được dùng để phát hiện lỗi logic:
+- Cách thứ nhất:
++ Dựa vào phân tích logic tìm lỗi. Tập trung những khối lệnh liên quan đến lỗi và so sánh với kịch bản xem có thực hiện đúng yêu cầu hay không.
++ Phương pháp:
+  + Việc phát hiện vị trí lỗi trong chương trình được tìm bằng suy luận logic, bắt đầu từ những khối lệnh thực hiện không đúng kịch bản. Hạn chế: Cách này không kiểm tra lỗi theo dòng lệnh.
+- Cách thứ hai:
++ Chạy thử với dữ liệu mẫu để dò lỗi. Chạy chương trình với một số đầu vào dự kiến.
++ Nhận diện lỗi:
+  + Quan sát các biến thay đổi theo từng dòng lệnh và tìm ra dòng lệnh mà biến có kết quả không như dự kiến.
+- Cách này, người lập trình có thể kết hợp chạy chương trình từng bước với việc theo dõi giá trị của các biến, so sánh với các giá trị tương ứng cách thủ công để phát hiện câu lệnh gây lỗi và cách hoạt động để gây lỗi đó.
+b. Sửa lỗi
+- Khi biết vị trí câu lệnh gây lỗi trong chương trình và cách thức câu lệnh tạo ra lỗi, có thể đưa ra những cách sửa lỗi phù hợp với yêu cầu.
+- Hai phương pháp phổ biến phát hiện lỗi logic trong chương trình:
++ Tập trung những khối lệnh trực tiếp gây lỗi và những khối lệnh liên quan logic đến nó theo các cấu trúc điều khiển.
++ Chạy chương trình từng bước, kết hợp theo dõi sự thay đổi của các biến, các giá trị đầu ra và so sánh với các giá trị tính theo cách thủ công.

@@ -1,0 +1,30 @@
+BÀI 10a. ĐỊNH DẠNG NÂNG CAO CHO TRANG CHIẾU
+Mục tiêu bài học:
+- Chọn đặt màu sắc, cỡ chữ hài hòa và hợp lý với nội dung.
+- Thực hiện được thao tác đánh số trang, thêm đầu trang và chân trang.
+1. VĂN BẢN VÀ MÀU SẮC TRÊN TRANG CHIẾU
+- Khác với văn bản trong tài liệu thông thường, văn bản trên trang chiếu có đặc điểm là ngắn gọn, chỉ nêu ý chính, không nêu chi tiết.
+- Văn bản trên trang chiếu góp phần quan trọng vào việc tạo ấn tượng, thu hút sự quan tâm, giúp người nghe nhanh chóng tiếp nhận được nội dung tóm tắt của trang chiếu.
+- Màu sắc đóng vai trò quan trọng trong việc thiết kế một bài trình chiếu. Một bài trình chiếu đẹp, chuyên nghiệp là sự phối hợp hoàn hảo của nội dung, bố cục và màu sắc. Do đó, màu sắc phù hợp làm bài trình chiếu sinh động, bắt mắt, tác động trực tiếp đến cảm tình người xem.
+- Lưu ý về màu sắc:
++ Các màu nóng như đỏ, da cam, vàng,... mang lại cảm giác ấm áp, giúp người xem phấn chấn, hoạt bát, năng nổ.
++ Các màu lạnh như xanh, tím,... mang lại cảm giác lạnh, giúp người xem bình tĩnh, hiền hòa, lắng dịu.
++ Các màu trung tính như trắng, đen, be,... mang lại cảm giác lịch sự, nhẹ nhàng.
+- Màu sắc chủ đạo nên đặt sao cho hài hòa với nội dung.
++ Ví dụ: Bài trình chiếu về chủ đề giải trí, lễ hội,... nên dùng gam màu nóng; Chủ đề giáo dục, học tập nên dùng gam màu trung tính; Chủ đề về nghệ thuật, sự kiện tri ân nên dùng gam màu lạnh.
+- Kết hợp các màu cùng nhóm với nhau. Ví dụ: Màu nóng như đỏ, cam, vàng có thể kết hợp với màu nâu. Màu lạnh như xanh dương, xanh lục đi với màu xám.
+- Không dùng quá nhiều màu trên một trang chiếu (bao gồm cả màu nền và màu chữ).
+- Chọn màu văn bản có độ tương phản cao với màu nền.
+- Phần mềm trình chiếu cung cấp công cụ giúp chọn đặt màu sắc, cỡ chữ hài hòa, hợp lý với nội dung
+2. SỐ TRANG, ĐẦU TRANG VÀ CHÂN TRANG
+- Giống phần mềm soạn thảo văn bản, phần mềm trình chiếu cũng cho phép thêm đầu trang, chân trang và đánh số thứ tự các trang trong bài trình chiếu.
+- Là thông tin xuất hiện ở đầu và cuối của tất cả các trang chiếu. Thông tin này thường bao gồm tên người trình chiếu, tên công ty, tiêu đề bài trình chiếu, số trang hay thời gian trình chiếu..
+- Trong powerpoint:
++ Định dạng số trang và thông tin đầu trang, chân trang:
+ + có thể định dạng số trang và thông tin ở phần đầu trang, chân trang giống định dạng văn bản trên trang chiếu.
++ Sử dụng Notes and Handouts:
+ + Phần mềm hỗ trợ in nội dung bài trình chiếu ra giấy (Handouts) để phát cho người nghe.
+ + Có thể thêm đầu trang, chân trang vào tài liệu in trên giấy giúp người nghe dễ dàng theo dõi. Bằng cách nháy chuột chọn Notes and Handouts trong mục Header and Footer, rồi nhập thông tin.
++ Chế độ Slide và Notes and Handouts:
+ + Ở chế độ Slide, không thêm được đầu trang.
+ + Ở chế độ Notes and Handouts, phần mềm PowerPoint mới cho phép thêm đầu trang.

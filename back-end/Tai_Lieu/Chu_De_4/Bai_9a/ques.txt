@@ -1,0 +1,10 @@
+Câu 1: Chọn những phương án đúng:
+A. Đầu trang và chân trang là đoạn văn bản đầu tiên và cuối cùng trong một trang.
+B. Thông tin ở phần đầu trang và chân trang thường ngắn gọn và được tự động thêm vào tất cả các trang trong văn bản sau khi tạo.
+C. Đầu trang và chân trang là văn bản hoặc hình ảnh được chèn vào lề trên và lề dưới.
+D. Không thể đưa hình ảnh vào đầu trang và chân trang.
+Câu 2: Chọn phương án sai:
+A. Đánh số trang giúp người đọc biết độ dài của văn bản (nhìn số trang cuối)
+B. Đánh số trang cùng với mục lục, giúp người đọc tìm thấy các phần cụ thể của văn bản
+C. Đánh số trang cho phép trích dẫn một trang cụ thể của văn bản
+D. Phần mềm soạn thảo văn bản không có chức năng đánh số trang tự động

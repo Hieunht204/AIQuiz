@@ -1,0 +1,15 @@
+BÀI 9a. TẠO ĐẦU TRANG, CHÂN TRANG CHO VĂN BẢN
+Mục tiêu bài học:
+- Thực hiện được các thao tác: đánh số trang, thêm đầu trang và chân trang.
+- Tạo được văn bản có tính thẩm mỹ phục vụ nhu cầu thực tế
+1. ĐẦU TRANG VÀ CHÂN TRANG
+- Đầu trang (Header) và chân trang (Footer) lần lượt là phần trên cùng (phần lề trên) và dưới cùng (phần lề dưới) của văn bản.
+- Chúng là các phần riêng biệt với văn bản chính và thường được dùng để chứa chú thích, số trang, tên văn bản, tên tác giả,...
+- Đầu trang và chân trang cũng có thể chứa hình ảnh hay hình đồ họa.
+- Thông tin đặt trong phần đầu trang và chân trang tự động xuất hiện ở tất cả các trang. Nhờ vậy, có thể cố định một số thông tin cần xuyên suốt cả văn bản.
+- Đầu trang và chân trang thường chứa thông tin ngắn gọn về văn bản, giúp phân loại, kiểm soát các trang trong văn bản.
+Ngoài ra, thông tin ở đầu trang và chân trang còn giúp trang văn bản chuyên nghiệp và đẹp hơn nhờ sắp xếp thông tin hay hình ảnh trang trí.
+2. ĐÁNH SỐ TRANG
+- Các tài liệu dạng văn bản, nhất là văn bản dài, thường đánh số trang để dễ theo dõi.
+- Phần mềm soạn thảo văn bản có chức năng đánh số trang tự động cho văn bản.
+- Số trang thường đặt ở đầu trang hoặc chân trang. Có thể lựa chọn đặt số trang ở vị trí bên trái, bên phải hoặc giữa.

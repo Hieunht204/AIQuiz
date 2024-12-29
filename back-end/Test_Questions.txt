@@ -1,0 +1,42 @@
+**Chủ đề 1**
+
+Câu 1: Ai là người đầu tiên sáng chế ra chiếc máy tính cơ học Pascaline?  
+A. Charles Babbage  
+B. Gottfried Leibniz  
+C. Blaise Pascal  
+D. John Von Neumann  
+
+Câu 2: Đặc điểm nào dưới đây không phải của máy tính thế hệ thứ nhất?  
+A. Sử dụng đèn điện tử chân không  
+B. Kích thước rất lớn  
+C. Có thể thực hiện hàng triệu phép tính mỗi giây  
+D. Thiết bị vào - ra là máy đọc và tạo thẻ đục lỗ  
+
+**Chủ đề 2**
+
+Câu 1: Đặc điểm nào sau đây đúng về thông tin số?  
+A. Dễ dàng bị xóa bỏ hoàn toàn  
+B. Chỉ có thể truy cập từ một thiết bị duy nhất  
+C. Dễ dàng được nhân bản và lan truyền  
+D. Không thể được lưu trữ với dung lượng lớn  
+
+Câu 2: Tại sao việc xác định nguồn thông tin là quan trọng?  
+A. Giúp tiết kiệm thời gian  
+B. Giúp đưa ra những quyết định đúng đắn  
+C. Giúp tăng cường độ tin cậy của thông tin  
+D. Giúp dễ dàng tìm kiếm thông tin  
+
+Câu 3: Thông tin không đáng tin cậy thường có đặc điểm gì?  
+A. Thông tin từ các nguồn uy tín  
+B. Thông tin đã được kiểm chứng  
+C. Thông tin không trung thực hoặc thiếu căn cứ  
+D. Thông tin có giá trị sử dụng cao  
+
+
+
+**Đáp án:**  
+Câu 1: C  
+Câu 2: C  
+Câu 1: C  
+Câu 2: B  
+Câu 3: C  

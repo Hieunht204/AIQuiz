@@ -1,0 +1,22 @@
+BÀI 10b. THÊM VĂN BẢN, TẠO HIỆU ỨNG CHO ẢNH
+Mục tiêu bài học:
+- Thực hiện được các thao tác xử lý ảnh: thêm văn bản, điều chỉnh độ sáng, độ tương phản, làm mờ, làm sắc nét.
+1. THÊM VĂN BẢN
+- Tác dụng:
++ Chèn thêm văn bản vào ảnh là cách ghi chú, gửi gắm thông điệp,...giúp bức ảnh độc đáo, sinh động, cuốn hút hơn.
++ Có thể chèn và đặt văn bản vào vị trí bất kỳ trong ảnh.
++ Cũng có thể định dạng cho văn bản như: thay đổi kiểu chữ, cỡ chữ, màu chữ,...
+2. TẠO HIỆU ỨNG CHO ẢNH
+- Hình được chụp từ máy ảnh kỹ thuật số không phải lúc nào cũng hoàn hảo. Đôi khi hình trông quá sáng hoặc quá tối, có thể do một số yếu tố gây ra, gồm ánh sáng nơi chụp và cách đặt các thông số của máy. Có thể khắc phục vấn đề bằng cách điều chỉnh độ sáng và độ tương phản của hình ảnh.
+a. Độ sáng của ảnh (Brightness)
+- Điều chỉnh độ sáng là thay đổi mức độ sáng và tối tổng thể của ảnh.
+- Nếu ảnh quá tối, có thể tăng độ sáng. Việc tăng độ sáng cho một ảnh quá tối có thể tạo ra nhiều chi tiết bị mất hoặc nhiễu cho ảnh.
+b. Độ tương phản (Contrast)
+- Tăng độ tương phản là thao tác làm cho sự khác biệt giữa vùng sáng và vùng tối của ảnh rõ ràng hơn. Nói cách khác, thao tác này làm các phần tối tối hơn và các phần sáng sáng hơn. 
+- Nếu tăng độ tương phản quá nhiều có thể dẫn đến mất chi tiết của hình ảnh.
+c. Độ mờ, độ sắc nét (Blur, Sharpen)
+- Phần mềm xử lý ảnh cung cấp các công cụ làm mờ, làm sắc nét hình ảnh để:
++ Làm mờ một vùng quá nổi bật trong ảnh.
++ Làm sắc nét riêng một đối tượng.
++ Làm mờ nền xung quanh ảnh để nổi bật chủ thể.
+- Việc thêm quá nhiều độ mờ hoặc sắc nét có thể làm ảnh trông xấu hơn hoặc mất chi tiết của ảnh.

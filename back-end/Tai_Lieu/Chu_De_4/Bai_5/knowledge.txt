@@ -1,0 +1,13 @@
+Chủ Đề 4: ỨNG DỤNG TIN HỌC
+Bài 5: Sử Dụng Bảng Tính Giải Quyết Bài Toán Thực Tế
+Mục tiêu bài học:
+- Giải thích được sự thay đổi địa chỉ tương đối trong công thức khi sao chép công thức.
+- Giải thích được sự khác nhau giữa địa chỉ tương đối và địa chỉ tuyệt đối của một ô tính.
+- Sử dụng được phần mềm bảng tính trợ giúp giải quyết bài toán thực tế.
+- Sao chép được dữ liệu từ các tệp văn bản, trang trình chiếu sang trang tính.
+1. ĐỊA CHỈ TƯƠNG ĐỐI
+- Một trong những ưu điểm nổi bật của chương trình bảng tính là tính toán tự động. Vì chương trình bảng tính cho phép tính toán theo địa chỉ ô. Chương trình bảng tính Dùng ba loại địa chỉ ô là địa chỉ tương đối, địa chỉ tuyệt đối và địa chỉ hỗn hợp. Ta sẽ chỉ tìm hiểu địa chỉ tương đối và địa chỉ tuyệt đối
+- Địa chỉ tương đối tự động thay đổi khi sao chép công thức nhưng vẫn giữ nguyên vị trí tương đối giữa ô chứa công thức và ô có địa chỉ trong công thức.
+2. ĐỊA CHỈ TUYỆT ĐỐI
+- Trong chương trình bảng tính, một địa chỉ ô trong công thức không đổi khi sao chép công thức thì địa chỉ đó là địa chỉ tuyệt đối. Phần mềm bảng tính quy định địa chỉ tuyệt đối có ký hiệu $ trước tên cột và trước tên hàng.
+- Ví dụ, $F$2 là địa chỉ tuyệt đối. Sau khi nhập địa chỉ tương đối, nhấn F4 để chuyển địa chỉ tương đối thành địa chỉ tuyệt đối.

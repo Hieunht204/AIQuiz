@@ -1,0 +1,133 @@
+Chủ Đề 4: ỨNG DỤNG TIN HỌC
+BÀI 7. TRÌNH BÀY DỮ LIỆU BẰNG BIỂU ĐỒ
+Mục tiêu bài học:
+- Nêu được tình huống thực tế cần dùng các chức năng tạo biểu đồ.
+- Thực hiện được các thao tác tạo biểu đồ của phần mềm bảng tính
+1. TRÌNH BÀY DỮ LIỆU BẰNG BIỂU ĐỒ
+- Biểu đồ được dùng để minh họa dữ liệu một cách trực quan, giúp dễ so sánh hoặc dự đoán xu hướng tăng hay giảm của dữ liệu. Có nhiều loại biểu đồ với một ý nghĩa riêng. Ví dụ:
++ Biểu đồ cột: được dùng để so sánh dữ liệu.
++ Biểu đồ đoạn thẳng: thường được dùng để quan sát xu hướng tăng giảm của dữ liệu theo thời gian hay quá trình nào đó. Ví dụ, biểu đồ đoạn thẳng số lượng lượt tải ứng dụn từ các chợ ứng dụng từ năm 2017 đến 2020 có xu hướng tăng dần.
++ Biểu đồ hình quạt tròn: hữu ích khi so sánh các phần với tổng thể. Ví dụ, biểu đồ so sánh tỉ lệ phần trăm
+- Cách sử dụng biểu đồ: 
++ Biểu đồ là cách minh họa dữ liệu trực quan. Biểu đồ giúp dễ dàng so sánh, nhận định xu hướng thay đổi của dữ liệu.
++ Cần dùng loại biểu đồ phù hợp với mục đích của việc biểu diễn và thể hiện dữ liệu.
+
+Text from Trang34.jpg:
+Bước 5. Bé sung théng tin cho biéu dd.
+
+Nháy chuột chon biểu dé, sau đó chon nut lệnh Chart Elements & góc trên bên phai của
+biểu dé. Nháy chuột chon các loại thông tin cho biểu đồ như minh hoa trong Hinh 7.6.
+
+a - NH ..
+Số học sinh quan tâm @ be
+PIE mire
+
+DataTable
+
+Inside End
+E ror bars
+
+Gries l
+Legend Guide Ena
+
+Inside Base
+
+E Teendine Data Callout
+
+1s
+ì
+3 ;
+ee
+° 5
+1
+
+:
+
+;
+, m”
+°
+
+Ngônngữ Mạngmáy D8 hog méy Bảngtính Soạnthảo Phần mềm
+lậptình - tính tính điệntử vănbản trình chiếu
+
+Hinh 7.6. Bỗ sung thông tin cho biéu dé
+
+Luu ý: Trong danh sách thong tin ở nut lệnh Chart Elements, em hay chon thêm các lệnh
+khác va quan sat su thay ddi của biéu dd.
+
+b) Tao biéu dé hinh quat tron
+Nhiệm vu: Tao biéu đồ hinh quạt tròn như Hinh 7.4 dé so sanh trực quan tilé phan tram
+số hoc sinh của mối nội dung Tin hoc trén tong số học sinh khao sat.
+Hướng dan
+Bước 1. Chon vung dữ liệu B2:C8.
+Bước 2. Trong thé Insert, tai nhom Charts, chon lệnh Insert Pie or Doughnut Chart.
+Danh sach các loại biéu d6 hình quat tron sé xuat hién.
+Bước 3. Trong nhóm biéu dé 2-D Pie, chon’kiéu biểt dé:Pie. Biéu đồ két qua sé xuất hién
+trong bang tinh.
+Bước 4. Bd sung théng tin cho biéu đồ.
+Trong Excel, biéu dé hình quat tron hường có thông tin mac dinh gồm tiéu dé va chú giải (Legend).
+Dé hién thi nhãn dé liệu là ti lệ phan tram, em chon More Options... như minh hoa trong
+Hinh 7.7. Khi đó các tuy chon định dang nhãn dữ liệu (Label Option) sé xuat hién &
+khung lam việc bén phải. Em đánh dau chon Percentage.
+
+Số hoc sinh quan tam
+
+2
+
+=Ngôn ngữ lap trình = Mang máy tinh
+xĐồhoạmáytính w Bang tinh điện tir
+= Soạn thảo văn bản -. Phần mềm trình chiếu
+
+Hinh 7.7. Bd sung thông tin cho biéu dé hinh quat tron
+
+Text from Trang35.jpg:
+Luu ý: Trong khung lam viéc Format Data Label còn có nhiều tuy chon khác vé nhãn dữ
+liệu, em hay chon thém các lệnh khác va quan sat su thay ddi của biéu dé.
+
+@ LUYEN TAP Thời gian Số học sinh
+
+1. Em hay mở tệp TGSDThietbiso.xlsx đã lưu ở Bai 6, Không str dung 68
+Dung ham SUM 4é tinh tổng số hoc sinh str dung thiét |Dưới 1 Bio 131
+bi số trong mối khoảng thoi gian (kết qua tuong tynhu = |1:2giờ 146
+Hinh 7.8) rồi thực hién: 3-4 giờ 72
+
+a) Vé biểu dé cột thé hiện số hoc sinh str dung thiétbi sé M#Ssi@telen 1 32
+của méi khoang thoi gian. Tir biéu đồ két qua, em co Hình 7.8. Tong so học sinh
+nhận xét gi vé tinh hinh sử dung thiét bi của hoc sinh str dung thiết bj so trong moi
+khối 8? khoảng thời gian
+
+b) Vẽ biéu dé hình quạt tron thé hiện ti lệ phan trăm cla sé hoc sinh sử dung thiết bi số theo
+méi khoang thời gian.
+
+2. Cho biéu dé về doanh thu công nghiép phan mềm giai doan 2016 - 2020 như Hinh 7.9.
+
+Triệu USD
+6.000, ư êê [raga
+
+5.000 ¬
+
+4,000
+
+3.000 ¬
+
+2.000 1-
+
+1,000 1-
+
+0
+
+2016 2017 2018 2019 2020
+
+Hinh 7.9. Doanh thu công nghiệp phan mềm giai đoạn 2016 — 2020
+(Theo: Sách trắng Công nghệ thông tin năm 2021 — Bộ Thông tin và Truyền thông)
+a) Tir biểu dd, em có nhận xét gi về doanh thu công nghiệp phan mềm giai doan 2016 — 2020?
+b) Em hay tao bang dữ liệu trong phan mém bang tinh từ biéu dé trén.
+c) Em hay tao biéu đồ cột từ bang dữ liệu có được ở cau b.
+
+@ VAN DUNG
+
+Từ bang dữ liệu vé doanh thu công nghiệp phan mềm giai doan 2016 — 2020 da tao ra
+trén phan mềm bang tinh & Cau 2, phan Luyén tap, em hay tao biéu đồ doan thang, tir do
+nhận xét xu hướng thay déi của dữ liệu.
+
+35

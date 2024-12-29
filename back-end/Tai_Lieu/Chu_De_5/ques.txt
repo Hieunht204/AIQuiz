@@ -1,0 +1,11 @@
+Câu 1: Cấu trúc lặp nào sau đây không được cho trước trong các nhóm lệnh của Scratch?
+A. Lặp một khối lệnh với số lần định trước.
+B. Lặp một khối lệnh vô hạn lần.
+C. Lặp với điều kiện được kiểm tra trước khi thực hiện khối lệnh.
+D. Lặp với điều kiện được kiểm tra sau khi thực hiện khối lệnh.
+
+Câu 2: Chọn phát biểu ĐÚNG NHẤT về hoạt động gỡ lỗi:
+A. Gỡ lỗi là phát hiện và loại bỏ lỗi. Trong lập trình, không nhất thiết phải gỡ lỗi.
+B. Gỡ lỗi là chạy thử chương trình để phát hiện lỗi. Trong lập trình, không nhất thiết phải gỡ lỗi.
+C. Gỡ lỗi là chạy thử chương trình để phát hiện lỗi. Gỡ lỗi là một phần quan trọng của lập trình.
+D. Gỡ lỗi là phát hiện và loại bỏ lỗi. Gỡ lỗi là một phần quan trọng của lập trình.

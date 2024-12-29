@@ -1,0 +1,11 @@
+Câu 1: Hãy chọn những phương án sai:
+A. Phần mềm soạn thảo văn bản cung cấp hai kiểu danh sách dạng liệt kê.
+B. Danh sách dạng liệt kê không tự động cập nhật khi thêm hoặc bớt đoạn văn.
+C. Chỉ có thể sử dụng một kiểu danh sách dạng liệt kê cho một văn bản.
+D. Có thể sử dụng kết hợp danh sách dấu đầu dòng và danh sách có thứ tự.
+
+Câu 2:Chọn phương án sai:
+A. Có thể chèn hình ảnh vào văn bản để minh họa cho nội dung.
+B. Có thể vẽ hình đồ họa trong phần mềm soạn thảo văn bản.
+C. Có thể chèn thêm, xóa bỏ, thay đổi kích thước của hình ảnh và hình đồ họa trong văn bản.
+D. Không thể vẽ hình đồ họa trong phần mềm soạn thảo văn bản.

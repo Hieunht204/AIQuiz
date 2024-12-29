@@ -1,0 +1,90 @@
+b. LÀM QUEN VỚI PHẦN MỀM CHỈNH SỬA ẢNH
+BÀI 8b. PHẦN MỀM CHỈNH SỬA ẢNH
+Mục tiêu bài học:
+- Nêu được một vài chức năng chính của phần mềm chỉnh sửa ảnh.
+- Thực hiện được các thao tác: mở tệp ảnh; đọc thông tin ảnh; phóng to, thu nhỏ; di chuyển; lưu tệp ảnh.
+1. PHẦN MỀM CHỈNH SỬA ẢNH
+
+Dưới đây là nội dung đã được chỉnh sửa chính tả và bổ sung đầy đủ các thông tin còn thiếu dựa theo nội dung trong hình:
+
+b. LÀM QUEN VỚI PHẦN MỀM CHỈNH SỬA ẢNH
+PHẦN MỀM CHỈNH SỬA ẢNH
+Sau bài học này em sẽ:
+Nêu được một vài chức năng chính của phần mềm chỉnh sửa ảnh.
+Thực hiện được các thao tác: mở tệp ảnh; đọc thông tin ảnh; phóng to, thu nhỏ; di chuyển ảnh; lưu tệp ảnh.
+Câu chuyện khởi động
+An: Tớ chụp được nhiều ảnh phong cảnh trường mình, nhưng xem lại thì thấy có ảnh bị lỗi vì ngón tay che ống kính. Liệu có cách nào để cắt bỏ phần lỗi đó đi không?
+Minh: Có chứ! Thậm chí bạn còn có thể làm được nhiều hơn thế. Mình sẽ giới thiệu cho bạn một phần mềm không chỉ làm được việc đó mà còn thay đổi được kích thước, điều chỉnh ánh sáng, hiệu ứng,... cho ảnh nữa.
+
+1. PHẦN MỀM CHỈNH SỬA ẢNH
+Hoạt động 1: Phần mềm chỉnh sửa ảnh
+Em hãy liệt kê một số yêu cầu mà em muốn làm thay đổi một bức ảnh.
+Phần mềm ứng dụng nào có thể giúp em làm việc đó?
+- Không phải mọi ảnh đều đẹp ngay khi được tạo ra. Mỗi hình ảnh đều cần chỉnh sửa để mang thông điệp tích cực đến người xem. Phần mềm chỉnh sửa ảnh là công cụ giúp tạo hoặc thay đổi một hình ảnh để được hình ảnh mới theo cách ta mong muốn
+- Phần mềm chỉnh sửa ảnh có thể cài đặt trên máy tính hoặc chạy trực tuyến trên Internet. Những chức năng chính của phần mềm chỉnh sửa ảnh:
++ Tạo mới ảnh
++ Chỉnh sửa ảnh
++ Chuyển đổi ảnh sang các định dạng và độ phân giải khác nhau
+- Chỉnh sửa ảnh là thay đổi hình ảnh ban đầu để tạo ra hình ảnh mới
+- Phần mềm chỉnh sửa ảnh là công cụ giúp tạo hoặc thay đổi một ảnh gốc để có ảnh mới theo yêu cầu.
+2. ĐỐI TƯỢNG VÀ LỚP TRONG ẢNH
+- Mỗi bức ảnh khi được tạo ra đều mang một nội dung nhất định mà người tạo muốn thể hiện và người xem ảnh có thể nhận được. Nội dung đó thể hiện qua cảnh nền và các thành phần xuất hiện trong ảnh.
+- Khi chỉnh sửa ảnh:
++ Coi các thành phần trong ảnh là các đối tượng để phần mềm chỉnh sửa ảnh tác động, thay đổi và tạo ra ảnh mới.
++ Phần mềm xử lý ảnh cung cấp các công cụ chọn (Selection) giúp chọn đối tượng thực hiện các thao tác khác nhau cho từng phần ảnh riêng biệt. Khi đối tượng được chọn, các thao tác xử lý chỉ áp dụng cho chính đối tượng đó.
+Ảnh nhiều lớp
+- Trong xử lý ảnh, ta sử dụng kỹ thuật phân lớp (layer) để hỗ trợ chỉnh sửa. Mỗi hình ảnh được tạo nên từ nhiều lớp ảnh khác nhau
+- Lớp dưới cùng là lớp ảnh nền (background).
+- Các lớp tiếp theo có nền trong suốt và chứa các đối tượng.
+- Các đối tượng ở lớp dưới sẽ bị che bởi các đối tượng ở lớp trên
+- Kỹ thuật làm việc với lớp: là kỹ thuật nâng cao và đặc trưng của các phần mềm xử lý ảnh. Nhờ đó, người dùng dễ dàng thay đổi, chỉnh sửa các đối tượng và phối trộn nhiều mảng hình ảnh khác nhau, tạo ra bức ảnh mong muốn.
+- Thao tác chỉnh sửa chỉ tác dụng với các đối tượng đang được chọn trong lớp ảnh tương ứng.
+3. Đọc thông tin ảnh
+- Cách lưu ảnh:
+- Màn hình máy tính được tạo thành từ một lưới gồm nhiều điểm ảnh (pixel).
+- Mỗi pixel đều có tọa độ (x, y) trên màn hình chứa thông tin về màu sắc.
+- Kích thước ảnh: được biểu diễn dưới dạng số lượng pixel theo chiều rộng và chiều cao.
+Ví dụ: Ảnh có chiều rộng 1280 pixel và chiều cao 960 pixel biểu diễn là 1280 × 960 pixel.
+- Định dạng ảnh: Máy tính dùng các định dạng ảnh khác nhau để lưu trữ và xử lý hình ảnh. Một số định dạng phổ biến:
++ JPG: Ưu tiên hiệu quả nén ảnh nhưng khó khôi phục nguyên gốc; Không hỗ trợ nền trong suốt; Thường được dùng trong nhiếp ảnh.
++ PNG: Nén ảnh hiệu quả thấp hơn nhưng không làm mất dữ liệu gốc; Phù hợp với ảnh trên web, ảnh logo, ảnh có nền trong suốt và quá trình chỉnh sửa phức tạp.
+4. PHẦN MỀM CHỈNH SỬA ẢNH
+a. Khởi động phần mềm
+Nháy đúp chuột biểu tượng phần mềm trên màn hình nền để mở phần mềm chỉnh sửa ảnh GIMP.
+- Các thành phần giao diện chính:
++ Bảng công cụ: Chứa các công cụ chỉnh sửa: chọn vùng, cắt, tô màu...
++ Hộp tùy chọn công cụ: Hiển thị các tùy chọn liên quan đến công cụ đang dùng
++ Vùng làm việc: Nơi hiển thị ảnh để chỉnh sửa.
++ Bảng tùy chọn cấu hình, điều khiển lớp: Dùng quản lý các lớp ảnh, cấu hình thuộc tính ảnh.
+b. Mở tệp ảnh
+- Chọn File/Open để mở hộp thoại Open Image.
+- Chọn tệp ảnh và nháy chuột chọn Open.
+c. Đọc thông tin ảnh
+- Chọn Image/Image Properties, cửa sổ Image Properties xuất hiện.
+- Một số thành phần trong cửa số Image Properties: 
++ Kích thước ảnh: Số pixel theo chiều rộng và chiều cao.
++ Độ phân giải ảnh: Thông tin độ sắc nét của ảnh.
++ Tên tệp ảnh: Hiển thị tên của tệp ảnh.
++ Định dạng tệp ảnh: Loại định dạng ảnh (JPG, PNG, v.v...).
+d. Phóng to, thu nhỏ ảnh
+- Khi chỉnh sửa ảnh, cần phóng to để nhìn rõ các chi tiết và ngược lại, muốn quan sát toàn bộ ảnh sau thao tác chỉnh sửa cần thu nhỏ ảnh.
+- Cách 1: Nhấn giữ Ctrl trong khi lăn nút cuộn chuột để phóng to hoặc thu nhỏ ảnh.
+- Cách 2: Chọn công cụ Zoom rồi đưa con trỏ chuột vào ảnh và nháy chuột. Mỗi lần nháy, ảnh sẽ được phóng to hoặc thu nhỏ theo một tỉ lệ thích hợp  (Zoom in để phóng to, Zoom out để thu nhỏ)
+e. Di chuyển ảnh: chọn công cụ Move trong bảng công cụ rồi đưa con trỏ chuột vào ảnh và kéo thả đến vị trí mới
+f. Chọn đối tượng
+- Phần mềm GIMP cung cấp hai loại công cụ chọn:
++ Công cụ chọn theo hình dạng (Rectangle select tool, Ellipse select tool).
++ Công cụ chọn tự do (Free select tool).
+- Để chọn đối tượng:
++ Tùy hình dạng mà chọn công cụ thích hợp (Rectangle, Ellipse hoặc Free select tool)
++ Rê hoặc kéo thả chuột để lựa vùng hoặc đối tượng cần chọn.
+g. Lưu tệp ảnh
+- Chọn File/Save hoặc File/Save As để mở hộp thoại Save Image.
+- Lựa chọn thư mục lưu, nhập tên tệp vào ô Name.
+- Nháy chuột chọn Save hoàn thành việc lưu tệp.
+Lưu ý:
+- Chọn File/Save hoặc File/Save As, tệp ảnh lưu với phần mở rộng là xcf (định dạng tệp của GIMP). Định dạng phù hợp với các ảnh đang trong quá trình xử lý bằng phần mềm GIMP.
+- Muốn lưu ảnh dưới các định dạng khác: jpg, png, hoặc gif, chọn File/Export As. Hộp thoại Export Image xuất hiện: 
++ Nhập tên và chọn định dạng tệp trong mục Select File Type
++ Nháy chuột chọn Export hoàn thành việc lưu 
+- Có thể đổi giao diện của GIMP từ màu đen sang màu xám hoặc ghi sáng bằng cách chọn Edit/Preferences/Interface, rồi chọn màu trong mục Theme và Icon Theme.

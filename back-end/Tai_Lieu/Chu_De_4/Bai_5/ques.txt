@@ -1,0 +1,5 @@
+Câu 1: Cách nhập kí hiệu $ cho địa chỉ tuyệt đối:
+A. Gõ kí hiệu $ từ bàn phím khi nhập địa chỉ ô
+B. Sau khi nhập địa chỉ tương đối, nhấn F4 để chuyển thành địa chỉ tuyệt đối
+C. Sau khi nhập địa chỉ tương đối, nhấn F2 để chuyển thành địa chỉ tuyệt đối
+D. Thực hiện được theo cả hai cách A và B

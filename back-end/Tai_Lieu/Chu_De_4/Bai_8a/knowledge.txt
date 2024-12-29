@@ -1,0 +1,18 @@
+a. SOẠN THẢO VĂN BẢN VÀ TRÌNH CHIẾU NÂNG CAO
+BÀI 8a. LÀM VIỆC VỚI DANH SÁCH DẠNG LIỆT KÊ VÀ HÌNH ẢNH TRONG VĂN BẢN
+Mục tiêu bài học:
+- Thực hiện được các thao tác: tạo danh sách dạng liệt kê; chèn thêm, xóa bỏ, co dãn hình ảnh; vẽ hình đồ họa trong văn bản...
+- Tạo được sản phẩm là văn bản có tính thẩm mỹ phục vụ nhu cầu thực tế.
+1. DANH SÁCH DẠNG LIỆT KÊ
+- Phần mềm soạn thảo văn bản cung cấp hai kiểu danh sách dạng liệt kê:
++ Danh sách dấu đầu dòng
++ Danh sách có thứ tự
+- Mỗi đơn vị trong danh sách dạng liệt kê là một đoạn văn bản, phân tách nhau bởi một ký tự đặc biệt, được tạo khi người dùng nhấn phím Enter.
++ Trong danh sách dấu đầu dòng, mỗi đoạn văn bản bắt đầu bằng một dấu đầu dòng. Các dấu đầu dòng được tự động tạo ra mỗi khi thêm đoạn văn bản mới.
++ Trong danh sách có thứ tự, mỗi đoạn văn bản bắt đầu bằng một số hoặc chữ cái và dấu phân tách (thường là dấu chấm hoặc dấu ngoặc đơn). Thứ tự trong danh sách có thứ tự được tạo và cập nhật tự động khi thêm hoặc bớt các đoạn văn bản trong danh sách
+- Danh sách dạng liệt kê giúp văn bản rõ ràng, có tính thẩm mỹ hơn.
++ Nếu dùng đúng cách, các dấu đầu dòng và thứ tự có tác dụng như điểm truy cập cho người đọc, một hình thức nhấn mạnh hoặc cách để biểu thị tầm quan trọng của nội dung đoạn văn bản.
++ Danh sách dạng liệt kê chia nhỏ các đoạn văn bản dài, giúp tham khảo thông tin nhanh chóng, dễ dàng
+2. LÀM VIỆC VỚI HÌNH ẢNH MINH HỌA VÀ VẼ HÌNH ĐỒ HỌA
+- Ngoài công cụ xử lý văn bản, phần mềm soạn thảo còn cung cấp công cụ xử lý hình ảnh, giúp nâng cao hiệu quả sử dụng hình ảnh. Có thể: chèn, xóa hình ảnh; thay đổi kích thước, vị trí hình ảnh;... Phần mềm soạn thảo văn bản còn cung cấp thư viện đa dạng mẫu hình đồ họa, các chức năng để vẽ hình đồ họa trong văn bản.
+- Phần mềm soạn thảo văn bản cung cấp nhiều công cụ nâng cao để làm việc với hình ảnh và hình đồ họa.

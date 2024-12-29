@@ -1,0 +1,75 @@
+Chủ Đề 1: Máy tính và cộng đồng
+Bài 1: Lược Sử Công Cụ Tính Toán
+Mục tiêu bài học: 
+- Trình bày được sơ lược lịch sử phát triển máy tinh.
+- Nêu ví dụ cho thấy sự phát triển máy tính đã đem đến những thay đổi lớn lao cho xã hội loài người.
+- Công cụ tính toán đầu tiên: 
++ Các phép tính đầu tiên được con người thực hiện bằng cách sử dụng 10 ngón tay. Đến nay, hệ thống ghi số thập phân (cách ghi số sử dụng các chữ số từ 0 đến 9) vẫn là cách ghi số phổ biến hơn cả. Hơn 2000 năm trước Công nguyên, con người đã biết làm các phép tính số học và phát minh ra các công cụ hỗ trợ tính toán, trong đó bàn tính là một trong những công cụ sớm nhất, là một công cụ tính toán đơn giản nhưng giúp con người thực hiện các phép tính nhanh và chính xác hơn.
+1. Máy tính cơ học
+- Ý tưởng cơ giới hoá việc tính toán đóng vai trò quan trọng trong lịch sử phát triển của máy tính. Năm 1642, nhà bác học người Pháp Blaise Pascal, chưa đầy 20 tuổi, đã tạo ra chiếc máy tính cơ học Pascaline để giúp đỡ cha trong việc tính thuế.
+- Sau Pascal, nhà Toán học người Đức Gottfried Leibniz đã cải tiến và thêm phép tính nhân, chia vào máy tính của Pascal để  thực hiện được cả bốn phép tính số học.
+- Dự án máy tính của Babbage:
++ Năm 1833 đánh dấu dự án đầy tham vọng của nhà Toán học, nhà phát minh người Anh Charles Babbage nhằm thiết kế và chế tạo những cỗ máy, thực hiện việc tính toán một cách tự động nhằm tránh những sai sót con người trong tính toán và sao chép các con số.
++ Nguyên lý thiết kế máy tính của Babbage như máy tính ngày nay, là loại máy đa năng, thực hiện tính toán tự động và có những ứng dụng ngoài tính toán thuần túy. Vì vậy, mặc dù dự án không được hoàn thành do hạn chế về công nghệ, ông vẫn được coi là cha đẻ của công nghệ máy tính.
+  * Ý tưởng cơ giới hóa việc tính toán đóng vai trò quan trọng trong lịch sử phát triển của máy tính. Năm 1642, nhà bác học Blaise Pascal đã sáng chế ra chiếc máy tính cơ học Pascaline.
+  * Năm 1833, nhà Toán học Charles Babbage đã thiết kế máy tính đa năng, tính toán tự động tương tự máy tính ngày nay.
+2. Máy Tính Điện Tử
+- Máy tính điện – cơ và kiến trúc Von Neumann:
+- 24 tuổi, Claude Shannon chỉ ra có thể sử dụng các rơ le để thực hiện các thao tác tính toán trên các dãy bit. Đó là nền tảng cho việc thiết kế các máy tính kỹ thuật số hiện đại. Thời kỳ đầu, các máy tính được thiết kế dựa trên các rơ le, còn được gọi là máy tính điện – cơ.
+- Được thôi thúc bởi ý tưởng của Babbage, năm 1943, Howard Aiken đã chế tạo thành công chiếc máy tính điều khiển tuần tự tự động (ASCC - Automatic Sequence Controlled Calculator), một máy tính điện – cơ đa năng, có thể hoạt động với sự can thiệp tối thiểu của con người. Nó thực hiện phép tính cộng mất gần một giây và phép tính nhân mất khoảng 6 giây. Được giới thiệu ở Đại học Harvard năm 1944 nên còn có tên Harvard Mark I.
+- Năm 1945, nhà Toán học người Mỹ gốc Hungary John Von Neumann trình bày nguyên lý hoạt động của máy tính với khái niệm “chương trình được lưu trữ”. Theo đó:
+1. Các lệnh chương trình được lưu trữ trong bộ nhớ giống dữ liệu.
+2. Để thực hiện nhiệm vụ nào, chỉ cần tải chương trình tương ứng vào bộ nhớ.
+3. Chương trình được nạp từ bộ nhớ vào bộ xử lý từng lệnh một và thực hiện xong mới nạp lệnh tiếp theo (tuần tự).
+- Theo nguyên lý đó, máy tính cần được cấu tạo dựa trên kiến trúc Von Neumann, gồm bộ xử lý, bộ nhớ, các cổng kết nối với thiết bị vào – ra và đường truyền giữa các bộ phận đó.
+- Trải qua nhiều giai đoạn, dựa trên những tiến bộ về công nghệ, máy tính điện tử có thể được phân chia thành năm thế hệ.
+Thế hệ thứ nhất (1945 – 1955):
+- Công nghệ đèn điện tử chân không đầu thế kỷ XX nhanh chóng thay thế rơ le điện cơ, đánh dấu kỷ nguyên đầu tiên của máy tính điện tử.
+- Mỗi giây, ENIAC có thể thực hiện 5000 phép tính cộng hoặc 350 phép tính nhân.
+- Đặc điểm máy tính thế hệ thứ nhất:
++ Thành phần điện tử chính: Đèn điện tử chân không.
++ Bộ nhớ chính: Trống từ.
++ Kích thước: Rất lớn (thường chiếm một căn phòng).
++ Thiết bị vào – ra: Máy đọc và tạo thẻ đục lỗ.
++ Ví dụ: Atanasoff-Berry Computer (ABC, 1942), ENIAC (1943), EDVAC (1945)…
+Thế hệ thứ hai (1955 – 1965):
+- Bóng bán dẫn là một cải tiến lớn, tạo nên thế hệ máy tính mới, kích thước nhỏ hơn thế hệ đầu tiên, rẻ hơn, tiêu thụ ít điện năng hơn, đáng tin cậy hơn và chạy nhanh hơn so với các máy tính làm bằng đèn điện tử chân không. Máy tính thế hệ thứ hai nhanh hơn máy tính thế hệ trước hàng chục lần. Chẳng hạn, IBM 7090 có thể tính được 229,000 phép tính mỗi giây.
+- Máy tính thế hệ thứ hai được đưa vào nước ta năm 1968 là Minsk-22, được sản xuất tại nước cộng hòa Belarus
+- Đặc điểm máy tính thế hệ thứ hai:
++ Thành phần điện tử chính: Bóng bán dẫn.
++ Bộ nhớ: Lõi từ, băng từ.
++ Kích thước: Lớn (bộ phận xử lý và tính toán lớn như những chiếc tủ).
++ Thiết bị vào – ra: Máy đọc và in băng đục lỗ, máy đọc và in băng từ.
++ Ví dụ: IBM 7090 (1959), IBM 7094 (1962), UNIVAC 1107 (1960)…
+Thế hệ thứ ba (1965 – 1974):
+Máy tính thế hệ thứ ba là máy tính được chế tạo dựa trên các mạch tích hợp (IC – Integrated Circuit). Công nghệ này làm giảm kích thước và tăng tốc độ tính toán của máy tính so với thế hệ thứ hai. Chẳng hạn, IBM System/360 Model 30 có thể thực hiện khoảng 1 triệu lệnh mỗi giây và quản lý được 8 MB bộ nhớ. Chiếc máy tính thế hệ thứ ba được đưa vào nước ta năm 1967 thuộc họ IBM System/360.
+- Đặc điểm máy tính thế hệ thứ ba:
++ Thành phần điện tử chính: Mạch tích hợp.
++ Bộ nhớ: Lõi từ lớn, băng từ, đĩa từ.
++ Kích thước: Lớn (tương đương một chiếc bàn làm việc).
++ Thiết bị vào – ra: Được bổ sung bàn phím, màn hình, máy in,...
+Ví dụ: Dòng máy IBM System/360 (1964), IBM System/370 (1970), PDP-11 (1970), UNIVAC 1108 (1964)...
+Thế hệ thứ tư (1974 – 1990): 
+- Mạch tích hợp cỡ rất lớn (VLSI – Very Large Scale Integration) tạo nên những bộ xử lý nguyên khối, chứa hàng chục nghìn đến hàng triệu linh kiện bán dẫn gọi là những bộ vi xử lý. Máy tính dựa trên công nghệ vi xử lý được gọi là máy vi tính. Bộ xử lý 80386 XS (1988) của tập đoàn Intel có thể thực hiện khoảng 5 triệu phép tính mỗi giây và quản lý được 4 GB bộ nhớ. Chiếc Micral (1973) là một trong những máy vi tính đầu tiên.
+- Đặc điểm máy tính thế hệ thứ tư:
++ Thành phần điện tử chính: Mạch tích hợp cỡ rất lớn và bộ vi xử lý.
++ Bộ nhớ: CD, RAM, ROM, USB, SSD...
++ Kích thước: Nhỏ, có thể đặt trên bàn.
++ Thiết bị vào – ra: Được bổ sung thiết bị trỏ, máy quét,...
++ Mạng: Một nhóm gồm hai hoặc nhiều máy tính liên kết với nhau.
+Ví dụ: IBM PC, STAR 1000, APPLE II, Apple Macintosh,...
+Thế hệ thứ năm (1990 – ngày nay): 
+- Tiến bộ công nghệ năm 1980 cho phép tích hợp hàng chục triệu linh kiện bán dẫn vào một mạch được gọi là mạch tích hợp cỡ siêu lớn (ULSI – Ultra Large Scale Integration). Ngoài ra, kỹ thuật xử lý song song cũng là một bước tiến quan trọng giúp tăng hiệu suất tính toán đáng kể và giảm chi phí. Nhờ đó, máy tính thế hệ thứ năm có một số khả năng xử lý thông tin trong thế giới thực giống con người như: cảm nhận, suy luận, tương tác,... được gọi là trí tuệ nhân tạo.
+- Đặc điểm máy tính thế hệ thứ năm:
++ Thành phần điện tử chính: Mạch tích hợp cỡ siêu lớn.
++ Kích thước: Nhỏ, có thể mang theo người (di động) và có dung lượng lưu trữ lớn.
++ Thiết bị vào – ra: Được bổ sung thiết bị nhận dạng tiếng nói, hình ảnh, chuyển động,...
+Ví dụ: Điện thoại thông minh, loa thông minh, kính thông minh,...
+Lưu ý: Máy tính điện tử ra đời vào những năm 1940. Năm thế hệ của máy tính điện tử được đánh dấu bởi những tiến bộ công nghệ nhằm thu nhỏ các linh kiện điện tử, tích hợp vào những thiết bị nhỏ, có tốc độ xử lý lớn, độ tin cậy cao, khả năng kết nối toàn cầu, tiêu thụ ít năng lượng và trang bị nhiều ứng dụng thân thiện với con người
+3. Máy tính đã thay đổi thế giới như thế nào?
+- Máy tính đã thay đổi thế giới theo nhiều cách. Chúng có thể tiếp nhận mệnh lệnh con người để hoạt động một cách bền bỉ, xử lý dữ liệu chính xác, dung lượng lớn, tốc độ cao. Hơn thế, chúng rút ra những quy luật trong quá trình hoạt động, tạo những mệnh lệnh máy tính mới, máy tính có thể tự thay đổi, trở nên thông minh hơn, cụ thể là:
++ Trong y tế: những thiết bị nhỏ gọn như đồng hồ thông minh theo dõi sức khỏe thường xuyên, phát hiện kịp thời những hiện tượng bất thường của cơ thể và đưa ra những phản hồi hợp lý như tự động thông báo đến người thân, cơ sở y tế hay dịch vụ cấp cứu.
++ Trong giáo dục: Internet là kho thông tin khổng lồ, con người có thể học mọi nơi, mọi lúc, giúp các giáo viên hỗ trợ học sinh từ xa, giúp các nhà khoa học, các chuyên gia phổ biến kiến thức, kỹ năng,...hiệu quả.
++ Trong kinh tế: các giao dịch tăng lên nhanh chóng trong môi trường kỹ thuật số. Cả người tiêu dùng và nhà cung ứng đều được hỗ trợ để đa dạng hóa hình thức giao dịch, giúp nền kinh tế năng động hơn.
++ Trong quốc phòng: những thiết bị bay thông minh hỗ trợ quan sát vùng trời, vùng biển, lãnh thổ; những khí tài có tính tự động cao, nhanh và chính xác giúp quân đội bảo vệ Tổ quốc, an ninh quốc phòng.
++ Trong an toàn xã hội, các thiết bị thu nhận thông tin nơi công cộng như camera an ninh phát hiện những hiện tượng vi phạm pháp luật, gây mất an toàn xã hội, giúp người dân và cơ quan chức năng kịp thời xử lý.

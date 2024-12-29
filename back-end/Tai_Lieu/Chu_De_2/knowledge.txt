@@ -1,0 +1,37 @@
+Chủ đề 2: Tổ Chức Lưu trữ, Tìm kiếm và Trao Đổi Thông Tin
+Bài 2: Thông Tin Trong Môi Trường Số
+Mục tiêu bài học: 
+- Biết đặc điểm của thông tin số: đa dạng, được thu thập ngày càng nhanh và nhiều, lưu trữ với dung lượng không lồ bởi nhiều tổ chức và cá nhân, có tính bản quyền, có độ tin cậy rất khác nhau, có các công cụ tìm kiếm, chuyển đổi, truyền và xử lý hiệu quả.
+- Tầm quan trọng của việc biết khai thác các nguồn thông tin đáng tin cậy.
+1. Thông Tin Trong Môi Trường Số
+a. Thông tin số:
+- Bằng việc chụp lại bức ảnh, bạn đã tạo ra một bức ảnh số. Khác với bức ảnh trên giấy, bức ảnh số tạo ra không tồn tại vật liệu và khi bạn gửi cho người kahsc, bạn không mất đi bức ảnh đó.
+- Thông tin được mã hóa thành dãy bit, được chuyển vào máy tính, điện thoại thông minh, máy tính bảng,... có thể lan truyền, trao đổi trong môi trường kỹ thuật số gọi ngắn gọn là thông tin số.
+- Thông tin số có thể được truy cập từ xa thông qua kết nối Internet. Chẳng hạn, khi được bạn chia sẻ, người bạn gửi ảnh có thể vào hộp thư điện tử nhận ảnh không cần nhận trực tiếp từ bạn như ảnh in trên giấy. Người đó có thể lưu ảnh về thiết bị của mình và sửa bằng phần mềm ứng dụng rồi chia sẻ cho người khác.
+- Đặc điểm chính thông tin số:
++ Dễ dàng được nhân bản và lan truyền nhưng khó xoá bỏ hoàn toàn.
++ Có thể được truy cập từ xa nếu người quản lý thông tin cho phép.
++ Được lan truyền tự động do nhiều thiết bị được đồng bộ với nhau.
+b. Thông tin số trong xã hội
+- Khi bức ảnh đã được chia sẻ qua một ứng dụng, ví dụ thư điện tử, mạng xã hội, nó được ứng dụng lưu trữ lại và cho phép một số người tiếp cận hay tiếp tục chia sẻ. Thông tin số có thể được lưu trữ với dung lượng rất lớn bởi nhiều cá nhân, tổ chức và được cấp quyền truy cập khác nhau.
+- Không phải mọi thông tin trên mạng đều đúng. Người khác dùng bức ảnh nhưng chưa chắc họ đã đến đó. Thông tin số dễ dàng được chỉnh sửa và lại tiếp tục được lan truyền trên mạng. Thông tin số có độ tin cậy rất khác nhau, phụ thuộc nguồn gốc và mục tiêu thông tin.
+- Thông tin số đa dạng, được thu thập nhanh, được lưu trữ với dung lượng rất lớn bởi nhiều tổ chức và cá nhân.
++ Có nhiều công cụ hỗ trợ tìm kiếm, truy cập, lưu trữ, xử lý và chia sẻ thông tin số.
++ Quyền tác giả của thông tin số được pháp luật bảo hộ.
++ Thông tin số có mức độ tin cậy khác nhau.
++ Thông tin số cần được quản lý, khai thác an toàn và trách nhiệm.
+2. Thông tin đáng tin cậy
+- Không phải mọi thông tin ta nghe, xem hay đọc đều đúng.
+- Internet là kho thông tin khổng lồ. Nhưng nhiều thông tin trên Internet không đáng tin cậy như:
++ Thông tin không trung thực, mang tính lừa dối.
++ Thông tin đồn thổi, kết luận thiếu căn cứ.
++ Thông tin thiếu kiểm chứng dẫn đến quyết định sai lầm.
++ Thông tin không đáng tin cậy có giá trị sử dụng thấp, thậm chí không dùng được.
+- Việc xác định và biết khai thác nguồn thông tin đáng tin cậy rất quan trọng vì điều đó giúp đưa ra những quyết định đúng đắn. Nếu không biết khai thác nguồn thông tin đáng tin cậy mà tin vào quảng cáo quá mức, có thể tiêu tiền một cách lãng phí.
++ Gợi ý giúp xác định thông tin đáng tin cậy:
++ Xác định nguồn thông tin. Thẩm quyền và uy tín tổ chức hay cá nhân cung cấp ảnh hưởng giá trị và độ tin cậy của thông tin.Thông tin từ blog có độ tin cậy thấp vì ai cũng có thể viết. Các nhà sản xuất có thể phóng đại lợi ích dịch vụ hay sản phẩm họ cung cấp, trong khi hạ thấp vai trò đối thủ cạnh tranh.
++ Phân biệt ý kiến và sự kiện: Ý kiến là quan điểm, không phải sự kiện. Các ý kiến cần được xem xét và có thể thú vị, nhưng độ tin cậy chúng thấp hơn sự kiện vì mang nhiều cảm xúc và định kiến cá nhân. Như phát biểu: "Tôi tin rằng việc đó xảy ra" không có nghĩa sự kiện nói tới xảy ra trong thực tế.
++ Kiểm tra chứng cứ kết luận: Kết luận không chứng cứ, cũng như ý kiến mang tính cá nhân, độ tin cậy rất thấp. Nhận xét: "Tôi nghĩ đây là bộ phim hoạt hình hay nhất mọi thời đại" là quan điểm cá nhân và cần xem xét thận trọng.
++ Đánh giá tính thời sự thông tin: Thời điểm công bố quan trọng vì nó quyết định thông tin còn ý nghĩa hay đã trở nên lỗi thời. Nội dung trang web lâu không được cập nhật có độ tin cậy thấp.
+Lưu ý: Thông tin đáng tin cậy giúp đưa kết luận, quyết định, hành động đúng và giải quyết được các vấn đề đặt ra.
+- Một số cách xác định thông tin đáng tin cậy: Kiểm tra nguồn thông tin; Phân biệt ý kiến với sự kiện; Kiểm tra chứng cứ của kết luận; Đánh giá tính thời sự của thông tin.
